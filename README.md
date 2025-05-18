@@ -1,5 +1,7 @@
 
-<a href="#"><img width="100%" src="" alt="banner"/></a>
+<a href="#">
+<img width="100%" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?ga=GA1.1.1857364706.1747588975&semt=ais_hybrid&w=740" alt="Cute girl hacker cartoon"></a>
+
 
 <h1 align="center">Hi 👋, I'm Akshaya Kothireddy</h1>
 <h3 align="center">Passionate software developer transforming ideas into code</h3>
