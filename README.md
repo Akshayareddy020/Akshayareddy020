@@ -1,5 +1,5 @@
 
-<a href="#"><img width="100%" src="https://i.imgur.com/iXuL1HG.png" alt="banner"/></a>
+<a href="#"><img width="100%" src="https://www.google.com/imgres?q=github%20profile%20picture%20download&imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-vector%2Fcute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg%3Fsemt%3Dais_hybrid%26w%3D740&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fgithub-character&docid=vJqtQ-pocJOKIM&tbnid=QpvIJnPez8s3qM&vet=12ahUKEwiMh_Oiz62NAxX2v4kEHV2YPQUQM3oECGUQAA..i&w=740&h=740&hcb=2&ved=2ahUKEwiMh_Oiz62NAxX2v4kEHV2YPQUQM3oECGUQAA" alt="banner"/></a>
 
 <h1 align="center">Hi 👋, I'm Akshaya Kothireddy</h1>
 <h3 align="center">Passionate software developer transforming ideas into code</h3>
