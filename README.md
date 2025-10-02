@@ -9,7 +9,7 @@
     >
   </a>
 
-  <h1>Hi 👋, I'm Akshaya Kothireddy</h1>
+  <h1>Hi 👋, I'm Akshaya K</h1>
   <h3>Passionate software developer transforming ideas into code</h3>
 </div>
 
@@ -25,7 +25,7 @@
 - 💡 Certified in:
   - 🥇**Professional Boomi Certification**
   - 🧠 **Professional Boomi Developer**
-  - 👨‍💻 **AWS Certified Developer - Associate -ongoing**
+  - 👨‍💻 **AWS Certified Developer - Associate**
 
 ---
 
