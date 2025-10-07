@@ -9,7 +9,7 @@
     >
   </a>
 
-  <h1>Hi 👋, I'm Akshaya K</h1>
+  <h1>Hi 👋, I'm Akshaya KR</h1>
   <h3>Passionate software developer transforming ideas into code</h3>
 </div>
 
